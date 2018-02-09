@@ -1,0 +1,23 @@
+{
+  "name": "parameter-grab",
+  "version": "1.0.0",
+  "description": "Gets parameters from AWS Parameter Store based on the directory given",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semiosBIO/parameter-grab.git"
+  },
+  "author": "Spencer <spencertranter95@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semiosBIO/parameter-grab/issues"
+  },
+  "homepage": "https://github.com/semiosBIO/parameter-grab#readme",
+  "dependencies": {
+    "aws-sdk": "^2.181.0",
+    "lodash": "^4.17.4"
+  }
+}
