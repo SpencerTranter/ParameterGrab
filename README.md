@@ -4,7 +4,7 @@ Just a simple module that grabs parameters from AWS Parameter Store based on the
 
 #### Install in any Lambda with:
 
-`npm install /parameter-grab#master --save`
+`npm install SpencerTranter/ParameterGrab#master --save`
 
 #### Then use...
 
